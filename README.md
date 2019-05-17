@@ -24,7 +24,7 @@ Esc exits from the game.
 
 # Screenshot
 
-![alt text](https://raw.githubusercontent.com/sgeldhof/Monadsweeper/blob/screenshot_1.png)
+![alt text](/screenshot_1.png)
 
 # Version History
 
