@@ -22,6 +22,10 @@ c toggles the cursor.
 r resets the game.
 Esc exits from the game.
 
+# Screenshot
+
+![alt text](https://raw.githubusercontent.com/sgeldhof/Monadsweeper/blob/screenshot_1.png)
+
 # Version History
 
 5-16-2019: 1.0 Basic version of the game uploaded.
